@@ -1,0 +1,2 @@
+{:hooks {:macroexpand {clj-kondo-example.core/subscribe
+                       hooks.clj-kondo-example.core/subscribe}}}
